@@ -13,19 +13,22 @@
 
 |Name | Agency | GitHub handle |
 |---|---|---|
-|Mr Sébastien Gerard Guirec VILLAUME(Chair)|ECMWF|[@sebvi](https://github.com/sebvi)
+|Mr Sébastien Gerard Guirec VILLAUME (Chair)|ECMWF|[@sebvi](https://github.com/sebvi)
 |Ms Yuanyuan LIU|CMA|[@Yuanyuanliu2023](https://github.com/Yuanyuanliu2023)
 |Mr Arun KUMAR|NOAA|[TBD](TBD)
 |Mr Vijay TALLAPRAGADA|NOAA|[@VijayTallapragada-NOAA](https://github.com/VijayTallapragada-NOAA)
 |Mr Masato FUJIMOTO|JMA|[@masato-f29](https://github.com/masato-f29)
 |Mr Alexandre LEROUX|MSC|[@alexandreleroux](https://github.com/alexandreleroux)
-|Mr Radomir ZARIPOV|ROSHYDROMET|[TBD](TBD)
-|Mr Thomas COLEMAN|MSC|[@ThomasColemanBoM](https://github.com/ThomasColemanBoM)
+|Mr Radomir ZARIPOV|ROSHYDROMET|[ZaripovRadomir](https://github.com/ZaripovRadomir)
+|Mr Thomas COLEMAN|BoM|[@ThomasColemanBoM](https://github.com/ThomasColemanBoM)
 
 ## WMO Secretariat
 
 |Name |GitHub handle |
 |---|---|
+|Mr Enrico FUCILE|[@efucile](https://github.com/orgs/wmo-im/people/efucile)
+|Ms Anna MILAN|[@amilan17](https://github.com/orgs/wmo-im/people/amilan17)
+|Mr Haddouch HASSAN|[@hhaddouch](https://github.com/orgs/wmo-im/people/hhaddouch)
 |Mr Yuki HONDA|[@yhonda21](https://github.com/orgs/wmo-im/people/yhonda21)
 |Ms Eunha LIM|[@EunhaLIM](https://github.com/orgs/wmo-im/people/EunhaLIM)
 |Mr Yuheng HE|[@yhe-wmo](https://github.com/yhe-wmo)
