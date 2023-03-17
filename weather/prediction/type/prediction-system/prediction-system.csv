@@ -1,0 +1,7 @@
+Name,Description,Child
+none,TBD,prediction-mode
+nowcasting,TBD,prediction-mode
+short-range,TBD,prediction-mode
+medium-range,TBD,prediction-mode
+subseasonal,TBD,prediction-mode
+seasonal,TBD,prediction-mode
