@@ -30,7 +30,7 @@
 |Mr Yuki HONDA|[@yhonda21](https://github.com/yhonda21)
 |Ms Eunha LIM|[@EunhaLIM](https://github.com/EunhaLIM)
 |Mr Yuheng HE|[@yhe-wmo](https://github.com/yhe-wmo)
-|Ms Sohee PARK|[@sshhhpppp](https://github.com/sshhhpppp)
+|Ms Sohee PARK|[@spark-wmo](https://github.com/spark-wmo)
 
 ## Meetings
 https://github.com/wmo-im/tt-nwpmd/wiki
