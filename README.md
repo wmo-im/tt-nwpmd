@@ -12,6 +12,7 @@
 |Name | Agency | GitHub handle |
 |---|---|---|
 |Mr Sébastien VILLAUME (Chair)|ECMWF|[@sebvi](https://github.com/sebvi)
+|Mr Sebastian BORCHERT|DWD|(TBD)
 |Mr Thomas COLEMAN|BoM|[@ThomasColemanBoM](https://github.com/ThomasColemanBoM)
 |Mr Masato FUJIMOTO|JMA|[@masato-f29](https://github.com/masato-f29)
 |Mr Arun KUMAR|NOAA|(TBD)
