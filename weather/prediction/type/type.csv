@@ -1,5 +1,5 @@
 Name,Description,Child
-forecast,TBD,prediction-system
-analysis,TBD,prediction-system
-reanalysis,TBD,prediction-system
-hindcast,TBD,prediction-system
+forecast,"Data sets of expected meteorological conditions for a specified time or period in the future, typically including the T+0 fields.",prediction-system
+analysis,"Data sets of analysed meteorological conditions for a specified time or period in the past.",prediction-system
+reanalysis,"Data sets constructing a record of past conditions.",prediction-system
+hindcast,"Data sets of retrospective forecast for a specified time or period in the past.",prediction-system
