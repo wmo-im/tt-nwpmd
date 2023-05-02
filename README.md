@@ -1,11 +1,11 @@
 # ![World Meteorological Organization](https://community.wmo.int/themes/wmo/logo.png) Task Team on NWP Metadata (TT-NWPMD)
 
-##TT-NWPMD
+## TT-NWPMD
 
 Please consult the [wiki](https://github.com/wmo-im/tt-nwpmd/wiki) for terms of reference, membership, and meetings of the task team.
 
 
-##Repository
+## Repository
 
 The repository details the structure of [WIS2 topic hierarchy](https://github.com/wmo-im/wis2-topic-hierarchy) of NWP data, which are one branch of domain-specific topic subcategories beyond level 9.
 
