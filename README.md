@@ -1,37 +1,14 @@
 # ![World Meteorological Organization](https://community.wmo.int/themes/wmo/logo.png) Task Team on NWP Metadata (TT-NWPMD)
 
-## Terms of Reference
-* Develop NWP products metadata codelists and standard, and procedures to maintain the codelists
-* Review and develop the NWP products metadata model based on ISO, OGC and W3C standards with a specific focus on WIS2
-* Develop NWP products metadata key performance indicators (KPIs) to assess the completeness/quality of metadata records
-* Work with ET-Metadata on documenting best practices for NWP products metadata creation to be included in the renewed Guide to the GDPFS
-* Regularly report to SC-ESMP on the progress of the task team activities
+##TT-NWPMD
 
-## Membership
+Please consult the [wiki](https://github.com/wmo-im/tt-nwpmd/wiki) for terms of reference, membership, and meetings of the task team.
 
-|Name | Agency | GitHub handle |
-|---|---|---|
-|Mr Sébastien VILLAUME (Chair)|ECMWF|[@sebvi](https://github.com/sebvi)
-|Mr Sebastian BORCHERT|DWD|(TBD)
-|Mr Thomas COLEMAN|BoM|[@ThomasColemanBoM](https://github.com/ThomasColemanBoM)
-|Mr Masato FUJIMOTO|JMA|[@masato-f29](https://github.com/masato-f29)
-|Mr Arun KUMAR|NOAA|(TBD)
-|Mr Alexandre LEROUX|MSC|[@alexandreleroux](https://github.com/alexandreleroux)
-|Ms Yuanyuan LIU|CMA|[@Yuanyuanliu2023](https://github.com/Yuanyuanliu2023)
-|Mr Vijay TALLAPRAGADA|NOAA|[@VijayTallapragada-NOAA](https://github.com/VijayTallapragada-NOAA)
-|Mr Radomir ZARIPOV|ROSHYDROMET|[@ZaripovRadomir](https://github.com/ZaripovRadomir)
 
-## WMO Secretariat
+##Repository
 
-|Name |GitHub handle |
-|---|---|
-|Mr Enrico FUCILE|[@efucile](https://github.com/efucile)
-|Ms Anna MILAN|[@amilan17](https://github.com/amilan17)
-|Mr Hassan HADDOUCH|[@hhaddouch](https://github.com/hhaddouch)
-|Mr Yuki HONDA|[@yhonda21](https://github.com/yhonda21)
-|Ms Eunha LIM|[@EunhaLIM](https://github.com/EunhaLIM)
-|Mr Yuheng HE|[@yhe-wmo](https://github.com/yhe-wmo)
-|Ms Sohee PARK|[@spark-wmo](https://github.com/spark-wmo)
+The repository details the structure of [WIS2 topic hierarchy](https://github.com/wmo-im/wis2-topic-hierarchy) of NWP data, which are one branch of domain-specific topic subcategories beyond level 9.
 
-## Meetings
-https://github.com/wmo-im/tt-nwpmd/wiki
+* A top level CSV named topic-hierarchy.csv shows all levels with their descriptions.
+* The topic hierarchy is organized as nested directory structure, following the values `weather` on Level 8 and `prediction` on Level 9. First two levels of directory (i.e. /weather/prediction/) is to indicate the branching from the main WIS2 topic hierarchy.
+* The subsequent directory structure is the name of each level; and the csv file under each directory lists the values (the codelist) that this particular level can take.
