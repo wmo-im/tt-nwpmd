@@ -1,5 +1,4 @@
 Name,Description,Child
-none,TBD,prediction-mode
 nowcasting,A prediction system up to the order of 120 minutes ahead,prediction-mode
 short-range,A prediction system up to the order of 72 hours ahead,prediction-mode
 medium-range,A prediction system up to the order of 240 hours ahead,prediction-mode
