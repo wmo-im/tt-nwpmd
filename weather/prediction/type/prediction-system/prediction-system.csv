@@ -1,6 +1,0 @@
-Name,Description,Child
-nowcasting,A prediction system up to the order of 120 minutes ahead,prediction-mode
-short-range,A prediction system up to the order of 72 hours ahead,prediction-mode
-medium-range,A prediction system up to the order of 240 hours ahead,prediction-mode
-subseasonal,A prediction system up to the order of 30 days ahead,prediction-mode
-seasonal,A prediction system up to the order of 6 months ahead,prediction-mode
