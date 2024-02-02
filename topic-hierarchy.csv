@@ -1,6 +1,0 @@
-Level,Name,Description
-9,earth-system-discipline-subcategory,
-10,type,Type of the data sets
-11,prediction-system,Forecasting range of the prediction system that generates the data sets
-12,prediction-mode,
-13,domain,native horizontal domain or spatial coverage of the prediction system
