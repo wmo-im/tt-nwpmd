@@ -1,4 +1,4 @@
-# ![World Meteorological Organization](https://community.wmo.int/themes/wmo/logo.png) Task Team on NWP Metadata (TT-NWPMD)
+# World Meteorological Organization Task Team on NWP Metadata (TT-NWPMD)
 
 ## TT-NWPMD
 
